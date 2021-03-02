@@ -1,2 +1,0 @@
-lista.txt
-README.md
