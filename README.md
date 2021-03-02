@@ -1,6 +1,6 @@
 # bootcamp_kotlin_developer
 
-##Dicas para atualização de repositorio de terceiro e forçar um novo login
+## Dicas para atualização de repositorio de terceiro e forçar um novo login
 
 For Windows User: Follow Instructions: 
 		Control Panel >> 
@@ -11,3 +11,5 @@ For Windows User: Follow Instructions:
 									provide uname and password Or you can remove git credential. next time when you'll push repo it'll ask you for credential.
 
 rundll32.exe keymgr.dll, KRShowKeyMgr will open this from the commandline.
+
+usa esse comando no git bash para apagar aquela url errada: **git remote remove origin**
